@@ -11,12 +11,13 @@
 - 📫 How to reach me: tahneetkanwal01@gmail.com
 - 😄 I love cats😺
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tahneet-kanwal-881503214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/tahneet-kanwal-881503214/" height="30" width="40" /></a>
 <a href="https://leetcode.com/kanwaltahneet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kanwaltahneet/" height="30" width="40" /></a>
 </p>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -33,13 +34,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind css" alt="Tailwind css" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahneetK13&show_icons=true&locale=en" alt="tahneetK13" />
 </p>
 
-
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahneetK13&" alt="tahneetK13" />
 </p>
