@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img width="40000" src="https://readme-typing-svg.herokuapp.com?color=A3EBB1&width=700&lines=Hello+I'm+Tahneet+Kanwal+👩‍💻" alt="Typing SVG" />
+    <img  src="https://readme-typing-svg.herokuapp.com?color=A3EBB1&size=35&height=80&width=700&lines=Hello+I'm+Tahneet+Kanwal+👩‍💻" alt="Typing SVG" style="margin-bottom: 5px; " />
   </a>
 </div>
 <h3 align="left">A Passionate Frontend Developer |  Enthusiastic Mobile Application Developer | Android📱 </h3>
